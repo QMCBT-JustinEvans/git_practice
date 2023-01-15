@@ -1,14 +1,15 @@
 # <b><i><font size="20">What Language Is That?!</font></i></b>
 #### [Click this link to visit our Project Github](https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project)
 #### [Click this link to see our Google Slide Presentation](https://www.canva.com/design/DAFXYtmJecw/zcgBWNIuZw722jgt14ferg/edit)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAFXYtmJecw/zcgBWNIuZw722jgt14ferg/edit)
 
 ## Meet Group 1
-|Team Member         |[LinkedIn]                                                |[GitHub]                               |
-|:-------------------|:---------------------------------------------------------|:--------------------------------------|
-|Justin Evans        |https://www.linkedin.com/in/qmcbt                         |https://github.com/QMCBT-JustinEvans   |
-|Nadia Paz           |https://www.linkedin.com/in/nadiapaz                      |https://github.com/nadia-paz           |
-|Allante Staten      |https://www.linkedin.com/in/allantestaten                 |https://github.com/allantestaten       |
-|Zachary Stufflebeme |https://www.linkedin.com/in/zachary-stufflebeme-63379a243 |https://github.com/Zachary-Stufflebeme |
+|Team Member         |[LinkedIn]                                               |[GitHub]                              |
+|:-------------------|:--------------------------------------------------------|:-------------------------------------|
+|Justin Evans        |[![LinkedIn](https://img.shields.io/badge/Justin's%20linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qmcbt)|[![GitHub](https://img.shields.io/badge/Justin's%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QMCBT-JustinEvans)|
+|Nadia Paz           |[![LinkedIn](https://img.shields.io/badge/Nadia's%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/nadiapaz)|[![GitHub](https://img.shields.io/badge/Nadia's%20GitHub-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/nadia-paz)|
+|Allante Staten      |[![LinkedIn](https://img.shields.io/badge/Allante's%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/allantestaten)|[![GitHub](https://img.shields.io/badge/Allante's%20GitHub-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/allantestaten)|
+|Zachary Stufflebeme |[![LinkedIn](https://img.shields.io/badge/Zachary's%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/zachary-stufflebeme-63379a243)|[![GitHub](https://img.shields.io/badge/Zachary's%20GitHub-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/Zachary-Stufflebeme)|
 
 # Project Overview:
 This team was tasked to build a model that can predict the main programming language of a repository using data from the GitHub repository README files.
